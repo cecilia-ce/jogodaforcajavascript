@@ -6,7 +6,7 @@ div.container {
 
 div.description {
 	font-size: 5vw;
-	background-color: #142a3e;
+	background-color: #22011d;
 	text-align: center;
 	padding: 3vw;
 	position: relative;
@@ -37,7 +37,7 @@ button.buttonNewGame {
 	width: 280px;
 	border-radius: 10px;
 	text-align: center;
-	color: #142a3e;
+	color: #22011d;
 	background-color:white;
 	position: absolute;
 	transform: translate(-135px, -90px); 
@@ -100,7 +100,7 @@ div.game {
 .clean{clear:both;}
 
 body {
-    background: #142a3e;
+    background: #22011d;
     color: #fff;
     width: 100%;
     height: 100vh;
